@@ -1,2 +1,2 @@
-# CS5346CaseStudy
-2420 CS5346 tableau case study data preparation pipeline
+# CS5346 Case Study
+CS5346 Tableau Case Study Data Preparation Pipeline
