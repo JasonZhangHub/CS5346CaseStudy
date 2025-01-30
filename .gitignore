@@ -4,10 +4,7 @@ __pycache__/
 *$py.class
 
 # ignore data folder
-data/*
-
-#ignore env
-.env
+data/ResaleFlatPrices/SG_HDB_ResaleFlatPrice*
 
 # C extensions
 *.so
