@@ -4,7 +4,11 @@ __pycache__/
 *$py.class
 
 # ignore data folder
-data/ResaleFlatPrices/SG_HDB_ResaleFlatPrice*
+data/*
+!data/ResaleFlatPrices/Resales Flat Prices*
+
+workbook/*
+!workbook/CaseStudy_SG_HDB_ResalePriceAnalysis.twbx
 
 # C extensions
 *.so
