@@ -6,6 +6,7 @@ __pycache__/
 # ignore data folder
 data/*
 !data/ResaleFlatPrices/Resales Flat Prices*
+note/*.md
 
 workbook/*
 !workbook/CaseStudy_SG_HDB_ResalePriceAnalysis.twbx
