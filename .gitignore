@@ -4,7 +4,8 @@ __pycache__/
 *$py.class
 
 # ignore data folder
-data/*
+data/ResaleFlatPrices/*
+!data/ResaleFlatPrices/SG_HDB_ResaleFlatPrice_Final.csv
 !data/ResaleFlatPrices/Resales Flat Prices*
 note/*.md
 
